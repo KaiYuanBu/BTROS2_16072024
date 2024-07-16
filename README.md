@@ -21,6 +21,6 @@
    	
 6) colcon build and you are basically done. Unless you want to use the btcpp_ros2_samples plugin (sleep_client_dyn), in which case you would need to change the path to either of the following:
 
-	install/btcpp_ros2_samples/share/btcpp_ros2_samples/bt_plugins/libsleep_plugin.so
+	`install/btcpp_ros2_samples/share/btcpp_ros2_samples/bt_plugins/libsleep_plugin.so`
 					OR
-	install/btcpp_ros2_samples/lib/btcpp_ros2_samples/libsleep_plugin.so"
+	`install/btcpp_ros2_samples/lib/btcpp_ros2_samples/libsleep_plugin.so"`
