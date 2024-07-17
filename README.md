@@ -26,4 +26,4 @@
 
 	`install/btcpp_ros2_samples/share/btcpp_ros2_samples/bt_plugins/libsleep_plugin.so` \
 						OR \
-	`install/btcpp_ros2_samples/lib/btcpp_ros2_samples/libsleep_plugin.so"`
+	`install/btcpp_ros2_samples/lib/btcpp_ros2_samples/libsleep_plugin.so`
