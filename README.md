@@ -1,20 +1,20 @@
 # STEPS FOR INSTALLING NEW VERSION OF BEHAVIORTREE.ROS2 PACKAGE 
 
-1) Go to the directory u want to put this package, then:
-	git clone https://github.com/BehaviorTree/BehaviorTree.ROS2.git
+1) Go to the directory u want to put this package, then: \
+	`git clone https://github.com/BehaviorTree/BehaviorTree.ROS2.git`
 
-2) Then go to your VScode and open terminal. Type in:
-	pip install jinja2
-	pip install typeguard
+2) Then go to your VScode and open terminal. Type in: \
+	`pip install jinja2
+	pip install typeguard`
 
-4) Then git clone generate_parameter_library in the same directory:
-	git clone https://github.com/PickNikRobotics/RSL.git](https://github.com/PickNikRobotics/generate_parameter_library.git
+4) Then git clone generate_parameter_library in the same directory: \
+	`git clone https://github.com/PickNikRobotics/RSL.git](https://github.com/PickNikRobotics/generate_parameter_library.git`
 
-5) Then git clone RSL in the same directory:
-	git clone https://github.com/PickNikRobotics/RSL.git
+5) Then git clone RSL in the same directory: \
+	`git clone https://github.com/PickNikRobotics/RSL.git`
 	
-6) Git clone the cpp_polyfills folder:
-	https://github.com/PickNikRobotics/cpp_polyfills.git
+6) Git clone the cpp_polyfills folder: \
+	`https://github.com/PickNikRobotics/cpp_polyfills.git`
 
 7) After that, if don't want to do the: \
 	`export CMAKE_PREFIX_PATH=/path/to/tcb_span:$CMAKE_PREFIX_PATH` \
